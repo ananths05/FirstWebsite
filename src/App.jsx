@@ -9,7 +9,7 @@ function App() {
 
       <h2>Hi, I'm Cubby 👋</h2>
 
-      <p>I'm learning React and Deployment.</p>
+      <p>I'm learning React, GitHub and Vercel! 🚀.</p>
 
       <button>About Me</button>
     </div>
